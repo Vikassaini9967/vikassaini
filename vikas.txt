@@ -1,0 +1,14 @@
+Git ---
+
+-> Git is an opensource Distributed Version Control System. It is a source code management tool which gives the following functionalities :-
+	- Allows Users to work simultaneously
+	- Does not allow overwriting each other's changes
+	- Maintaines a history of every version.
+
+-> Advantages of Git are as follows :-
+	- It is Free and Open Source
+	- It is Fast and small
+	- It can be used in the event of crash or Disk corruption
+	- It uses Secure Hash Function (SHA1) to identify objects within its database
+	- It not requires Powerfull Hardware
+	- It takes only a few seconds to create, delete, and merge branches
